@@ -1,0 +1,2 @@
+a2907660bdbf89ecaf5987492f66b40781e7a9c030faf028b740fd7f7436a9a0  DersDagitim-Android-0.2.6.apk
+29eb82a899e851884249188d05c6318a3fa3061eaee3c9c7b4a760485b2a63dd  ders-dagitim-cpanel.zip

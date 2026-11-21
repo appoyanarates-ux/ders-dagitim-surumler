@@ -1,0 +1,14 @@
+{
+  "surum": "0.2.6",
+  "yayin": "2026-11-21T13:46:33Z",
+  "notlar": "- **Android APK Beyaz Ekran Hatasının Kesin Çözümü (`android-kopru.js`):**\n  - `#yan` üzerindeki `MutationObserver` içinde `subtree: true` ile `yb2.textContent = etiket` atamasının tetiklediği sonsuz mikro-görev (microtask) döngüsü giderildi.\n  - `MutationObserver` yalnızca `#yan` doğrudan çocuk değişikliklerini (`childList: true`) izleyecek ve `#dd-android-yan-sync` yoksa çalışacak şekilde güncellendi.\n  - `textContent` atamaları yalnızca metin gerçekten değiştiğinde yapılacak şekilde koruma altına alındı.",
+  "asgari_surum": "0.1.0",
+  "dosya": "DersDagitim-Kurulum-0.2.5.exe",
+  "indir": "https://github.com/appoyanarates-ux/ders-dagitim-surumler/releases/download/v0.2.5/DersDagitim-Kurulum-0.2.5.exe",
+  "sha256": "1c02fe69f0913172aa6237a64b363588ffd765b87c2ac6666d79648f6a340b91",
+  "boyut": 46619756,
+  "android_dosya": "DersDagitim-Android-0.2.6.apk",
+  "android_indir": "https://github.com/appoyanarates-ux/ders-dagitim-surumler/releases/download/v0.2.6/DersDagitim-Android-0.2.6.apk",
+  "android_sha256": "a2907660bdbf89ecaf5987492f66b40781e7a9c030faf028b740fd7f7436a9a0",
+  "android_boyut": 3079270
+}
